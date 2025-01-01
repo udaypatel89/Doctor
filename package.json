@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "^14.1.0", // Replace with your desired version
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
     "@ai-sdk/google": "^0.0.55",
     "@fortawesome/free-brands-svg-icons": "^6.5.2",
     "@fortawesome/react-fontawesome": "^0.2.0",
@@ -34,7 +37,6 @@
     "dompurify": "^3.1.0",
     "lucide-react": "^0.372.0",
     "markdown-it": "^14.1.0",
-    "next": "^14.1.0",
     "next-themes": "^0.3.0",
     "openai": "^4.47.1",
     "react": "^18",
