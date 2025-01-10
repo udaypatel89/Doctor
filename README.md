@@ -1,3 +1,15 @@
+"I am Doctor - Report Analyser" is a specialized module of the "im doctor" project, designed to intelligently analyze medical reports using the MERN stack (MongoDB, Express.js, React.js, Node.js) and AI capabilities. This tool streamlines the process of understanding and interpreting complex medical reports, providing clear insights and actionable recommendations.
+
+
+Key Features:
+AI-Powered Report Analysis: Extracts key metrics and insights from lab reports, imaging, and more.
+Dynamic Visualization: Presents data in easy-to-read charts and summaries for quick understanding.
+Smart Anomaly Detection: Identifies irregularities and flags critical values for immediate attention.
+Secure Data Handling: Ensures privacy and compliance with industry standards.
+Customizable Recommendations: Tailors health advice based on analyzed data.
+Revolutionize the way you interpret medical reports with the "im doctor - Report Analyser"! 🚀
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
